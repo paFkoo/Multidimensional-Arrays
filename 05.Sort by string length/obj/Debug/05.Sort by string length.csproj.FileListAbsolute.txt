@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\05.Sort by string length\bin\Debug\05.Sort by string length.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\05.Sort by string length\bin\Debug\05.Sort by string length.exe
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\05.Sort by string length\bin\Debug\05.Sort by string length.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\05.Sort by string length\obj\Debug\05.Sort by string length.exe
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\05.Sort by string length\obj\Debug\05.Sort by string length.pdb

@@ -1,0 +1,6 @@
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\01.Fill The Matrix\bin\Debug\01.Fill The Matrix.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\01.Fill The Matrix\bin\Debug\01.Fill The Matrix.exe
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\01.Fill The Matrix\bin\Debug\01.Fill The Matrix.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\01.Fill The Matrix\obj\Debug\01.Fill The Matrix.csprojResolveAssemblyReference.cache
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\01.Fill The Matrix\obj\Debug\01.Fill The Matrix.exe
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\01.Fill The Matrix\obj\Debug\01.Fill The Matrix.pdb

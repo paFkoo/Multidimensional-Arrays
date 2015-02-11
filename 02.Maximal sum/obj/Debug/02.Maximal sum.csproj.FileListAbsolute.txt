@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\02.Maximal sum\bin\Debug\02.Maximal sum.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\02.Maximal sum\bin\Debug\02.Maximal sum.exe
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\02.Maximal sum\bin\Debug\02.Maximal sum.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\02.Maximal sum\obj\Debug\02.Maximal sum.exe
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\02.Maximal sum\obj\Debug\02.Maximal sum.pdb

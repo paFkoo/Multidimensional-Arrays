@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\03.Sequence n matrix\bin\Debug\03.Sequence n matrix.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\03.Sequence n matrix\bin\Debug\03.Sequence n matrix.exe
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\03.Sequence n matrix\bin\Debug\03.Sequence n matrix.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\03.Sequence n matrix\obj\Debug\03.Sequence n matrix.exe
+C:\Users\paFko\Desktop\Telerik\C# part 2\02.Multidimensional Arrays\Multidimensional Arrays\03.Sequence n matrix\obj\Debug\03.Sequence n matrix.pdb
